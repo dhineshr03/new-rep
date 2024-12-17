@@ -1,0 +1,150 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+#carfeaturedSection{
+    padding:20px;
+    .container{
+        width:70%;
+        margin: auto;
+        h3{
+            color:#484848;
+        }
+        .types{
+            display: flex;
+           padding:10px 0px 10px 0px ;
+            border-bottom:1px solid #d4cccc;
+            .type{
+                padding:5px 10px 5px 0px ;
+                p{
+                    font-size:12px;
+                    color:#484848;
+                    font-weight:600;
+                    
+                }
+            }
+        }
+        .row{
+            // display: flex;
+            // flex-wrap: wrap;
+            .slick-prev{
+                // top:50%;
+                // left:0px;
+                // background-color:#f11212;
+                // box-shadow: 0 0 5px rgb(196, 191, 191);
+               
+                // width: 30px;
+                // height:30px;
+                // border-radius:50%;
+                left: 1px !important;
+                background-color: rgb(111,86,86) !important;
+                z-index:9999;
+                border-radius:50%;
+                
+           }
+           .slick-next{           
+                right: 1px !important;
+                background-color:  rgb(111,86,86) !important;
+                z-index:9999;
+                border-radius:50%;
+            }
+            #carfeaturedSection .container .row .slick-arrow{
+                color:#e01f1f;
+            }
+            .col{
+                // width:100%;   
+                padding:10px 10px 10px 0px;
+               
+                .card{
+                    border:1px solid #f5eded;
+                    // height:250px;
+                    .imgDiv{
+                        // padding:10px;
+                        img{
+                            width:100%;
+                        }
+                    }
+                    .content{
+                        background-color:#F9F9F9;
+                        line-height:1.5;
+                        padding: 10px 10px 20px 10px;
+
+                        .carname{
+                            font-size:15px;
+                            font-weight:400;
+                            color:#484848;
+                        }
+                        .carprice{
+                            font-weight:500;
+                            color:#484848;
+                            display: inline-flex;
+                            span{
+                                font-size: 12px;
+                                color:#BCBCBC;
+                                margin-top:2px;
+                            }
+                            p{
+                               
+                                color: #00AFA0;
+                                font-size:13px;  
+                                margin-top:2px; 
+                                font-weight:500;
+                            }
+                        }
+                        .avg{
+                            font-size:14px;
+                            color: #777777;
+                        }
+                        .btnDiv{
+                            padding:10px 0px 10px 0px;
+                            button{
+                            
+                                border-color:#00AFA0;
+                                background-color: white;
+                                color:#00AFA0;
+                                padding:5px 30px;
+                                font-size:12px;
+                            }
+                        }
+                       .dates{
+                        display: flex;
+                        padding:5px 0px 0px 0px;
+                            .unveilDate{
+                                padding-right: 5px;
+                                p{
+                                    font-weight:600;
+                                    color:#6F6F6F;
+                                }
+                            }
+                            .launchDate{
+                                padding-top:2px;
+                                padding-right: 5px;
+                                p{
+                                    font-size:12px;
+                                    font-weight:700;
+                                    color:#C7C7C7;
+                                }
+                            }
+                            .infoIcon{
+                                margin-top:6px;
+                                display: inline-flex;
+                                width:15px;
+                                height:15px;
+                                border-radius:50%;
+                                border:1px solid #5E5E5E;
+                                text-align: center;
+                                align-items: center;
+                                justify-content: center v;
+                                i{
+                                    font-size:10px;
+                                    color:#8B8B8B;
+                                }
+                            }
+                       }
+                    }
+                }
+            }
+        }
+    }
+}

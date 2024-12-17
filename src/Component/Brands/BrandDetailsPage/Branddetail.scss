@@ -1,0 +1,187 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#branddetailSection{
+    background-color: rgb(2, 58, 16);
+    padding:80px  0px 20px 0px;
+    .container{
+        width:70%;
+        margin: auto;
+
+        .title{
+            padding:10px 0px;
+            h1{
+                font-size:28px;
+                padding-bottom:10px;
+            }
+            color:white;
+            p{
+                font-size:14px;
+            }
+            a{
+                float: right;
+                text-decoration: none;
+                color:blue;
+                font-size:10px;
+                
+            }
+        }
+        
+        .row{
+            width:100%;
+            display: flex;
+            // background-color: aqua;
+            .carscol{
+                width:70%;
+                .modelname{
+                    color:white;
+                    padding:15px 0px 5px 8px;
+                }
+            .col{
+                padding:10px;
+                width:90%;
+                .card{
+                    display: flex;
+                    border:1px solid rgb(201, 194, 194);
+                    padding:10px;
+                    background-color: white;
+                    border-radius:5px;
+                    .imgDiv{
+                       
+                        img{
+                            width:100%;
+                        }
+                    }
+                    .content{
+                        width:100%;
+                        .namerate{
+                            display: flex;
+                            justify-content: space-between;
+                            
+                            .name{
+                                display: inline-flex;
+                                p{
+                                    color:rgb(78, 76, 76);
+                                    
+                                }
+                                i{
+                                    margin-top:3px;
+                                    font-weight: 100;
+                                }
+                            }
+                            .rating{
+                                display: flex;
+                                padding:3px;
+                                border:1px solid rgb(214, 203, 203);
+                                .starrate{
+                                    display: inline-flex;
+                                    border-right:1px solid rgb(170, 166, 166);
+                                    // height:30px;
+                                    padding:0px 5px;
+                                    i{
+                                        color: #00AFA0;
+                                        font-size:12px;
+                                        margin:3px;
+                                    }
+                                    p{
+                                        color: #00AFA0;
+                                        font-size:14px;
+                                    }
+                                    sub{
+                                        color: rgb(146, 138, 138);
+                                        font-size:10px;
+                                    }
+                                }
+                                .ratecount{
+                                    font-size: 10px;
+                                    color: rgb(146, 138, 138);
+                                    padding:3px;
+                                }
+
+                            }
+                        }
+                        .km-bhp{
+                            display: flex;
+                            font-size:13px;
+                            color:rgb(78, 76, 76);
+                            .star{
+                                padding:0px 5px 0px 0px;
+                                border-right:1px solid rgb(187, 178, 178);
+                            }
+                            .kmpl{
+                                padding:0px 5px 0px 5px;
+                                border-right:1px solid rgb(187, 178, 178);
+                            }
+                            .bhp{
+                                padding:0px 0px 0px 5px;
+                            }
+                        }
+                        .amount{
+                            display:inline-flex;
+                            padding:5px 0px;
+                            h3{
+                                font-size:15px;
+                                color: rgb(87, 87, 87);
+                            }
+                            span{
+                                font-size:12px;
+                                color:rgb(136, 124, 124);
+                                margin-top:2px;
+                            }
+                            p{
+                               
+                                color: #00AFA0;
+                                font-size:13px;
+                                
+                            }
+                        }
+                        .avg{
+                            font-size:12px;
+                            color: rgb(66, 64, 64);
+                        }
+                        .getoffer{
+                            padding:5px 0px;
+                            a{
+                                text-decoration: none;
+                                font-size:12px;
+                                font-weight:500;
+                                color:blue;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+            .col2{
+                width:30%;
+                height:300px;
+                display: flex;
+                flex-wrap: wrap;
+                padding-top:50px;
+                .row2{
+                    width:30%;
+                    border:1px solid rgb(231, 221, 221);
+                    background-color: white;
+                    .card2{
+                        text-align: center;
+                        padding:10px;
+                        .imgDiv2{
+                            img{
+                                width:30px;
+                                height:30px;
+                            }                  
+                        }
+                        p{
+                            font-size:10px;
+                            color:rgb(119, 117, 117);
+                            font-weight:600;
+                        }
+                    }
+                }
+            }
+        
+        }
+    }
+}

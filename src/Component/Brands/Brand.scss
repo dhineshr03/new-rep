@@ -1,0 +1,44 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+#brandSection{
+    padding: 20px;
+    
+    .container{
+       
+        width:70%;
+        margin: auto;
+        .heading{
+            padding:5px 0px 10px 0px;
+            h3{
+                color:rgb(87, 83, 83);
+                font-weight:500;
+            }
+           
+        }
+        .row{
+            display: flex;
+            flex-wrap: wrap;
+            .col{
+                width:16.6%;
+                border:1px solid rgb(231, 221, 221);
+                .card{
+                    text-align: center;
+                    padding:10px;
+                    .imgDiv{
+                        img{
+                            width:60%;
+                        }
+                    }
+                    p{
+                        font-size:14px;
+                        color:rgb(119, 117, 117);
+                        font-weight:600;
+                    }
+                }
+            }
+        }
+    }
+}

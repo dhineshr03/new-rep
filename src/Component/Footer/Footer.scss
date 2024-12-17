@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#footerSec{
+    background-color:#002B51;
+    padding-bottom:10px;
+    .container{
+        width:90%;
+        margin: auto;
+        
+        .row1{
+            display: flex;
+            justify-content: space-evenly;
+            
+
+            .col{
+                // width:20%;
+                color:#8095A8;
+                padding:10px;
+            }
+        }
+    }    
+        .row2{
+            color: #8095A8;
+            display: flex;
+            // justify-content: space-evenly;   
+            border-top:1px solid #314252;;
+            border-bottom:1px solid #314252;;
+            padding:10px;
+            .col1{
+                border-right:1px solid #314252;
+                padding: 20px 20px 20px 320px;
+                width:45%;
+                p{
+                    font-size:12px;
+                }
+                .ans{
+                    padding-left:20px;
+                }
+                .language{
+                    display: flex;
+                    padding:10px;
+
+                }
+                .about{
+                    display: flex;
+                    padding:10px;
+                }
+                .career{
+                    display:flex;
+                    padding:10px;
+                }
+            }
+            .col2{
+                padding:10px 10px 10px 30px;
+                width:45%;
+                p{
+                    font-size:12px;
+                }
+                .storeimg{
+                    display: flex;
+                    // justify-content: space-between;
+                   .imgDiv{
+                    padding:10px 10px 10px 0px;
+                    img{
+                        width:80px;
+                    }
+                   }
+                    
+                }
+                .icons{
+                    display:flex;
+                    text-align: center;
+                   
+                    .icon{
+                        width:30px;
+                        height:30px;
+                        border-radius:50%;
+                        border:1px solid rgb(179, 169, 169);
+                        margin:5px;
+                        display: flex;
+                        align-items: center;
+                        justify-content: center;
+                       
+                        a{
+                            text-decoration: none;
+                            color:#8095A8;
+                            font-size:15px;           
+                        }
+                    }
+                }
+            }
+           
+        }
+        .row3{
+            display: flex;
+            // justify-content: space-evenly;
+            color: #8095A8;
+            padding:10px;
+            font-size:12px;
+            .col3{
+                width:45%;
+                height:10px;
+                padding: 20px 20px 20px 400px;
+                border-right:1px solid #314252;
+            }
+            .col4{
+                padding:20px 20px 20px 20px;
+                width:45%;
+                height:10px;
+                a{
+                    text-decoration: none;
+                    color: #8095A8;
+                }
+            }
+        }
+}

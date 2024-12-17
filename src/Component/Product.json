@@ -1,0 +1,1223 @@
+{
+    "carProduct":[
+        {
+            "id":1,
+            "trendImgUrl":"https://imgd.aeplcdn.com/310x174/n/cw/ec/141867/nexon-exterior-right-front-three-quarter-71.jpeg?isig=0&q=80",
+            "trendName":"Tata Nexon",
+            "trendPrice":"8.10",
+            "popularImgUrl":"https://imgd.aeplcdn.com/310x174/n/cw/ec/47051/compass-exterior-right-front-three-quarter-74.jpeg?isig=0&q=80",
+            "popularName":"Jeep Compass",
+            "popularPrice":"20.49",
+            "popularOffer":"Offers",
+            "upcomeImgUrl":"https://imgd.aeplcdn.com/272x153/n/cw/ec/141383/sonet-facelift-exterior-tail-light-tail-lamp.jpeg?isig=0&q=80",
+            "upcomeName":"Kia Sonet Facelift",
+            "upcomeStartPrice":"8.00",
+            "upcomeEndPrice":"15.00",
+            "upcomeUnveilDate":"14th Dec 2023",
+            "upcomeLaunchDate":"Unveil Date"
+
+        },
+        {
+            "id":2,
+            "trendImgUrl":"https://imgd.aeplcdn.com/310x174/n/cw/ec/130591/fronx-exterior-right-front-three-quarter-109.jpeg?isig=0&q=80",
+            "trendName":"Maruti Fronx",
+            "trendPrice":"7.47",
+            "popularImgUrl":"https://imgd.aeplcdn.com/310x174/n/cw/ec/128413/scorpio-exterior-right-front-three-quarter-47.jpeg?isig=0&q=80",
+            "popularName":"Mahindra Scorpio",
+            "popularPrice":"13.25",
+            "upcomeImgUrl":"https://imgd.aeplcdn.com/272x153/n/cw/ec/123643/bolero-neo-plus-exterior-grille.jpeg?isig=0&q=80",
+            "upcomeName":"Mahindra Bolero Neo Plus",
+            "upcomeStartPrice":"10.00",
+            "upcomeEndPrice":"12.00",
+            "upcomeUnveilDate":"Dec 2023 (Tentative)",
+            "upcomeLaunchDate":"Expected Launch"
+
+        },
+        {
+            "id":3,
+            "trendImgUrl":"https://imgd.aeplcdn.com/310x174/n/cw/ec/40432/scorpio-n-exterior-right-front-three-quarter-75.jpeg?isig=0&q=80",
+            "trendName":"Mahindra Scorpio N",
+            "trendPrice":"13.26",
+            "popularImgUrl":"https://imgd.aeplcdn.com/310x174/n/cw/ec/141115/creta-exterior-right-front-three-quarter-16.jpeg?isig=0&q=80",
+            "popularName":"Hyundai Creta",
+            "popularPrice":"10.87",
+            "upcomeImgUrl":"https://imgd.aeplcdn.com/272x153/n/cw/ec/132427/suv-coupe-exterior-right-rear-three-quarter.jpeg?isig=0&q=80",
+            "upcomeName":"Toyota Urban Cruiser Taisor",
+            "upcomeStartPrice":"12.00",
+            "upcomeEndPrice":"16.00",
+            "upcomeUnveilDate":"Dec 2023 (Tentative)",
+            "upcomeLaunchDate":"Expected Launch"
+
+        },
+        {
+            "id":4,
+            "trendImgUrl":"https://imgd.aeplcdn.com/310x174/n/cw/ec/144851/exter-exterior-right-front-three-quarter-29.jpeg?isig=0&q=80",
+            "trendName":"Hyundai Exter",
+            "trendPrice":"6.00",
+            "popularImgUrl":"https://imgd.aeplcdn.com/310x174/n/cw/ec/54399/swift-exterior-right-front-three-quarter-64.jpeg?isig=0&q=80",
+            "popularName":"Maruti Swift",
+            "popularPrice":"5.99",
+            "upcomeImgUrl":"https://imgd.aeplcdn.com/272x153/n/cw/ec/148309/punch-ev-exterior-rear-logo.jpeg?isig=0&q=80",
+            "upcomeName":"Tata Punch EV",
+            "upcomeStartPrice":"9.50",
+            "upcomeEndPrice":"12.50",
+            "upcomeUnveilDate":"Dec 2023 (Tentative)",
+            "upcomeLaunchDate":"Expected Launch"
+
+        },
+        {
+            "id":5,
+            "trendImgUrl":"https://imgd.aeplcdn.com/310x174/n/cw/ec/40087/thar-exterior-right-front-three-quarter-35.jpeg?isig=0&q=80",
+            "trendName":"Mahindra Thar",
+            "trendPrice":"10.98",
+            "popularImgUrl":"https://imgd.aeplcdn.com/310x174/n/cw/ec/42355/xuv700-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80",
+            "popularName":"Mahindra XUV700",
+            "popularPrice":"14.03",
+            "upcomeImgUrl":"https://imgd.aeplcdn.com/272x153/n/cw/ec/139795/ioniq-6-exterior-right-front-three-quarter.jpeg?isig=0&q=80",
+            "upcomeName":"Hyundai Ioniq 6",
+            "upcomeStartPrice":"50.00",
+            "upcomeEndPrice":"55.00",
+            "upcomeUnveilDate":"Jan 2024 (Tentative)",
+            "upcomeLaunchDate":"Expected Launch"
+
+        },
+        {
+            "id":6,
+            "trendImgUrl":"https://imgd.aeplcdn.com/310x174/n/cw/ec/39015/punch-exterior-right-front-three-quarter-54.jpeg?isig=0&q=80",
+            "trendName":"Tata Punch",
+            "trendPrice":"6.00",
+            "popularImgUrl":"https://imgd.aeplcdn.com/310x174/n/cw/ec/102663/baleno-exterior-right-front-three-quarter-66.jpeg?isig=0&q=80",
+            "popularName":"Maruti Baleno",
+            "popularPrice":"6.61",
+            "upcomeImgUrl":"https://imgd.aeplcdn.com/272x153/n/cw/ec/164543/revuelto-exterior-right-front-three-quarter.jpeg?isig=0&q=80",
+            "upcomeName":"Lamborghini Revuelto",
+            "upcomeStartPrice":"8.00",
+            "upcomeEndPrice":"10.00",
+            "upcomeUnveilDate":"Jan 2024 (Tentative)",
+            "upcomeLaunchDate":"Expected Launch"
+
+        },
+        {
+            "id":7,
+            "trendImgUrl":"https://imgd.aeplcdn.com/310x174/n/cw/ec/107543/brezza-exterior-right-front-three-quarter-7.jpeg?isig=0&q=80",
+            "trendName":"Maruti Brezza",
+            "trendPrice":"8.29",
+            "popularImgUrl":"https://imgd.aeplcdn.com/310x174/n/cw/ec/136183/grand-i10-nios-exterior-right-front-three-quarter-15.jpeg?isig=0&q=80",
+            "popularName":"Hyundai Grand i10 Nios",
+            "popularPrice":"5.84",
+            "upcomeImgUrl":"https://imgd.aeplcdn.com/272x153/n/cw/ec/155855/lm-exterior-left-front-three-quarter.jpeg?isig=0&q=80",
+            "upcomeName":"Lexus LM",
+            "upcomeStartPrice":"1.50",
+            "upcomeEndPrice":"1.80",
+            "upcomeUnveilDate":"Dec 2023 (Tentative)",
+            "upcomeLaunchDate":"Expected Launch"
+
+        }   
+        
+    ],
+    "brand":[
+        {
+            "id":1,
+            "brandImgUrl":"https://imgd.aeplcdn.com/0X0/n/cw/ec/10/brands/logos/maruti-suzuki1647009823420.jpg?v=1647009823707&q=80",
+            "brandName":"Maruti Suzuki",
+            "isbrand":true,
+            "isSimilar":true,
+            "particularBrand":[
+                
+                {
+                    "id":1,
+                    "brandName":"Maruti",
+                    "img":"https://imgd.aeplcdn.com/227x128/n/cw/ec/130591/fronx-exterior-right-front-three-quarter-109.jpeg?isig=0&q=80",
+                    "carname":"Maruti Fronx",
+                    "rating":"4.5",
+                    "ratingcount":"296",
+                    "kmpl":"20-28",
+                    "bhp":"76-99",
+                    "price":"7.47"
+
+                },
+                {
+                    "id":2,
+                    "brandName":"Maruti",
+                    "img":"https://imgd.aeplcdn.com/227x128/n/cw/ec/123185/grand-vitara-exterior-right-front-three-quarter-4.jpeg?isig=0&q=80",
+                    "carname":"Maruti Grand Vitara",
+                    "rating":"4.4",
+                    "ratingcount":"284",
+                    "kmpl":"19-27",
+                    "bhp":"87-102",
+                    "price":"10.70",
+                    "offer":true
+                    
+                },
+                {
+                    "id":3,
+                    "brandName":"Maruti",
+                    "img":"https://imgd.aeplcdn.com/227x128/n/cw/ec/107543/brezza-exterior-right-front-three-quarter-7.jpeg?isig=0&q=80",
+                    "carname":"Maruti Brezza",
+                    "rating":"4.4",
+                    "ratingcount":"488",
+                    "kmpl":"17-25",
+                    "bhp":"87-102",
+                    "price":"8.29"
+                    
+                },
+                {
+                    "id":4,
+                    "brandName":"Maruti",
+                    "img":"https://imgd.aeplcdn.com/227x128/n/cw/ec/54399/swift-exterior-right-front-three-quarter-64.jpeg?isig=0&q=80",
+                    "carname":"Maruti Swift",
+                    "rating":"4.4",
+                    "ratingcount":"932",
+                    "isstar":true,
+                    "star":"2 Star Safety",
+                    "kmpl":"22-30",
+                    "bhp":"76-89",
+                    "price":"5.99",
+                    "offer":true
+                    
+                    
+                },
+                {
+                    "id":5,
+                    "brandName":"Maruti",
+                    "img":"https://imgd.aeplcdn.com/227x128/n/cw/ec/147201/invicto-exterior-right-front-three-quarter-69.jpeg?isig=0&q=80",
+                    "carname":"Maruti Invicto",
+                    "rating":"4.6",
+                    "ratingcount":"45",
+                    "kmpl":"23",
+                    "bhp":"150",
+                    "price":"24.80"
+                    
+                },
+                {
+                    "id":6,
+                    "brandName":"Maruti",
+                    "img":"https://imgd.aeplcdn.com/227x128/n/cw/ec/126463/s-presso-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80",
+                    "carname":"Maruti S-Presso",
+                    "rating":"4.4",
+                    "ratingcount":"86",
+                    "kmpl":"24-32",
+                    "bhp":"56-66",
+                    "price":"4.27"
+                    
+                }
+
+            ]
+    
+        },
+        {
+            "id":2,
+            "brandImgUrl":"https://imgd.aeplcdn.com/0X0/n/cw/ec/16/brands/logos/tata.jpg?v=1629973276336&q=80",
+            "brandName":"Tata",
+            "isbrand":true,
+            "isSimilar":true,
+            "particularBrand":[
+                {
+                    "id":1,
+                    "brandName":"Tata",
+                    "img":"https://imgd.aeplcdn.com/227x128/n/cw/ec/141867/nexon-exterior-right-front-three-quarter-71.jpeg?isig=0&q=80",
+                    "carname":"Tata Nexon",
+                    "rating":"4.7",
+                    "ratingcount":"193",
+                    "isstar":true,
+                    "star":"5 Star Safety",
+                    "kmpl":"17-24",
+                    "bhp":"113-118",
+                    "price":"8.10"
+
+                },
+                {
+                    "id":2,
+                    "brandName":"Tata",
+                    "img":"https://imgd.aeplcdn.com/227x128/n/cw/ec/139139/harrier-facelift-exterior-right-front-three-quarter-5.jpeg?isig=0&q=80",
+                    "carname":"Tata Harrier",
+                    "rating":"4.6",
+                    "ratingcount":"55",
+                    "isstar":true,
+                    "star":"5 Star Safety",
+                    "kmpl":"14-16",
+                    "bhp":"168",
+                    "price":"15.49"
+                    
+                },
+                {
+                    "id":3,
+                    "brandName":"Tata",
+                    "img":"https://imgd.aeplcdn.com/227x128/n/cw/ec/138895/safari-facelift-exterior-right-front-three-quarter-39.jpeg?isig=0&q=80",
+                    "carname":"Tata Safari",
+                    "rating":"4.8",
+                    "ratingcount":"59",
+                    "isstar":true,
+                    "star":"5 Star Safety",
+                    "kmpl":"14-16",
+                    "bhp":"168",
+                    "price":"16.19"
+                    
+                },
+                {
+                    "id":4,
+                    "brandName":"Tata",
+                    "img":"https://imgd.aeplcdn.com/227x128/n/cw/ec/135723/tigor-ev-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80",
+                    "carname":"Tata Tigor EV",
+                    "rating":"3.8",
+                    "ratingcount":"11",
+                    "isstar":true,
+                    "star":"4 Star Safety",
+                    "kmpl":"12-27",
+                    "bhp":"120",
+                    "price":"12.49"
+                    
+                },
+                {
+                    "id":5,
+                    "brandName":"Tata",
+                    "img":"https://imgd.aeplcdn.com/227x128/n/cw/ec/41160/tigor-exterior-right-front-three-quarter-4.png?isig=0&q=80",
+                    "carname":"Tata Tigor",
+                    "rating":"4.5",
+                    "ratingcount":"450",
+                    "isstar":true,
+                    "star":"4 Star Safety",
+                    "kmpl":"19-29",
+                    "bhp":"72-89",
+                    "price":"6.30"
+                    
+                },
+                {
+                    "id":6,
+                    "brandName":"Maruti",
+                    "img":"https://imgd.aeplcdn.com/227x128/n/cw/ec/32597/altroz-exterior-right-front-three-quarter-80.jpeg?isig=0&q=80",
+                    "carname":"Tata Altroz",
+                    "rating":"4.6",
+                    "ratingcount":"1256",
+                    "isstar":true,
+                    "star":"5 Star Safety",
+                    "kmpl":"18-26",
+                    "bhp":"72-108",
+                    "price":"6.60"
+                    
+                }
+
+            ]
+        },
+        {
+            "id":3,
+            "brandImgUrl":"https://imgd.aeplcdn.com/0X0/n/cw/ec/8/brands/logos/hyundai.jpg?v=1629973193722&q=80",
+            "brandName":"Hyundai",
+            "isbrand":true,
+            "isSimilar":true,
+            "particularBrand":[
+                {
+                    "id":1,
+                    "brandName":"Hyundai",
+                    "img":"https://imgd.aeplcdn.com/227x128/n/cw/ec/144851/exter-exterior-right-front-three-quarter-29.jpeg?isig=0&q=80",
+                    "carname":"Hyundai Exter",
+                    "rating":"4.6",
+                    "ratingcount":"353",
+                    "kmpl":"19-27",
+                    "bhp":"68-82",
+                    "price":"6.00"
+
+                },
+                {
+                    "id":2,
+                    "brandName":"Hyundai",
+                    "img":"https://imgd.aeplcdn.com/227x128/n/cw/ec/121943/verna-exterior-right-front-three-quarter-101.jpeg?isig=0&q=80",
+                    "carname":"Hyundai Verna",
+                    "rating":"4.6",
+                    "ratingcount":"150",
+                    "isstar":true,
+                    "star":"5 Star Safety",
+                    "kmpl":"18-20",
+                    "bhp":"113-158",
+                    "price":"10.96",
+                    "offer":true
+                    
+                },
+                {
+                    "id":3,
+                    "brandName":"Hyundai",
+                    "img":"https://imgd.aeplcdn.com/227x128/n/cw/ec/110289/ioniq-5-exterior-right-front-three-quarter-95.jpeg?isig=0&q=80",
+                    "carname":"Hyundai Ioniq 5",
+                    "rating":"4.7",
+                    "ratingcount":"31",
+                    "isstar":true,
+                    "star":"5 Star Safety",
+                    "kmpl":"28-89",
+                    "bhp":"149",
+                    "price":"45.96"
+                    
+                },
+                {
+                    "id":4,
+                    "brandName":"Hyundai",
+                    "img":"https://imgd.aeplcdn.com/227x128/n/cw/ec/106821/tucson-exterior-right-front-three-quarter-7.jpeg?isig=0&q=80",
+                    "carname":"Hyundai Tucson",
+                    "rating":"3.7",
+                    "ratingcount":"39",
+                    "kmpl":"58",
+                    "bhp":"154-184",
+                    "price":"29.02",
+                    "offer":true
+                },
+                {
+                    "id":5,
+                    "brandName":"Hyundai",
+                    "img":"https://imgd.aeplcdn.com/227x128/n/cw/ec/142677/venue-n-line-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80",
+                    "carname":"Hyundai Venue N Line",
+                    "rating":"4.5",
+                    "ratingcount":"110",
+                    "kmpl":"18",
+                    "bhp":"118",
+                    "price":"12.08"
+                    
+                },
+                {
+                    "id":6,
+                    "brandName":"Hyundai",
+                    "img":"https://imgd.aeplcdn.com/227x128/n/cw/ec/158139/i20-n-line-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80",
+                    "carname":"Hyundai i20 N Line",
+                    "rating":"4.4",
+                    "ratingcount":"9",
+                    "kmpl":"40-78",
+                    "bhp":"118",
+                    "price":"9.99"
+                    
+                }
+
+            ]
+        },
+        {
+            "id":4,
+            "brandImgUrl":"https://imgd.aeplcdn.com/0X0/n/cw/ec/9/brands/logos/mahindra.jpg?v=1629973668273&q=80",
+            "brandName":"Mahindra",
+            "isbrand":true,
+            "isSimilar":true,
+            "particularBrand":[
+                {
+                    "id":1,
+                    "brandName":"Mahindra",
+                    "img":"https://imgd.aeplcdn.com/227x128/n/cw/ec/40432/scorpio-n-exterior-right-front-three-quarter-75.jpeg?isig=0&q=80",
+                    "carname":"Mahindra Scorpio N",
+                    "rating":"4.6",
+                    "ratingcount":"475",
+                    "isstar":true,
+                    "star":"5 Star Safety",
+                    "kmpl":"59",
+                    "bhp":"130-200",
+                    "price":"13.26"
+
+                },
+                {
+                    "id":2,
+                    "brandName":"Mahindra",
+                    "img":"https://imgd.aeplcdn.com/227x128/n/cw/ec/40087/thar-exterior-right-front-three-quarter-35.jpeg?isig=0&q=80",
+                    "carname":"Mahindra Thar",
+                    "rating":"4.7",
+                    "ratingcount":"686",
+                    "isstar":true,
+                    "star":"4 Star Safety",
+                    "kmpl":"75",
+                    "bhp":"117-150",
+                    "price":"10.98"
+                    
+                },
+                {
+                    "id":3,
+                    "brandName":"Mahindra",
+                    "img":"https://imgd.aeplcdn.com/227x128/n/cw/ec/26918/xuv300-exterior-right-front-three-quarter-148709.jpeg?isig=0&q=80",
+                    "carname":"Mahindra XUV300",
+                    "rating":"4.4",
+                    "ratingcount":"1323",
+                    "isstar":true,
+                    "star":"5 Star Safety",
+                    "kmpl":"17-20",
+                    "bhp":"109-115",
+                    "price":"7.99"
+                    
+                },
+                {
+                    "id":4,
+                    "brandName":"Mahindra",
+                    "img":"https://imgd.aeplcdn.com/227x128/n/cw/ec/42355/xuv700-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80",
+                    "carname":"Mahindra XUV700",
+                    "rating":"4.6",
+                    "ratingcount":"612",
+                    "kmpl":"145",
+                    "bhp":"30-89",
+                    "price":"14.02"
+                    
+                },
+                {
+                    "id":5,
+                    "brandName":"Mahindra",
+                    "img":"https://imgd.aeplcdn.com/227x128/n/cw/ec/131179/bolero-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80",
+                    "carname":"Mahindra Bolero",
+                    "rating":"4.6",
+                    "ratingcount":"1767",
+                    "kmpl":"16",
+                    "bhp":"75",
+                    "price":"9.80"
+                    
+                },
+                {
+                    "id":6,
+                    "brandName":"Mahindra",
+                    "img":"https://imgd.aeplcdn.com/227x128/n/cw/ec/49114/marazzo-exterior-right-front-three-quarter-5.jpeg?isig=0&q=80",
+                    "carname":"Mahindra Marazzo",
+                    "rating":"4.3",
+                    "ratingcount":"105",
+                    "isstar":true,
+                    "star":"4 Star Safety",
+                    "kmpl":"17",
+                    "bhp":"121",
+                    "price":"14.21"
+                    
+                }
+
+            ]
+        },
+        {
+            "id":5,
+            "brandImgUrl":"https://imgd.aeplcdn.com/0X0/n/cw/ec/17/brands/logos/toyota.jpg?v=1630055705330&q=80",
+            "brandName":"Toyota",
+            "isbrand":true,
+            "isSimilar":true,
+            "particularBrand":[
+                {
+                    "id":1,
+                    "brandName":"Toyota",
+                    "img":"https://imgd.aeplcdn.com/227x128/n/cw/ec/124027/urban-cruiser-hyryder-exterior-right-front-three-quarter-72.jpeg?isig=0&q=80",
+                    "carname":"Toyota Urban Cruiser Hyryder",
+                    "rating":"4.4",
+                    "ratingcount":"2134",
+                    "kmpl":"19-27",
+                    "bhp":"87-102",
+                    "price":"10.86"
+
+                },
+                {
+                    "id":2,
+                    "brandName":"Toyota",
+                    "img":"https://imgd.aeplcdn.com/227x128/n/cw/ec/115025/innova-hycross-exterior-right-front-three-quarter-73.jpeg?isig=0&q=80",
+                    "carname":"Toyota Innova Hycross",
+                    "rating":"4.5",
+                    "ratingcount":"124",
+                    "kmpl":"16-24",
+                    "bhp":"129-178",
+                    "price":"19.67"
+                    
+                },
+                {
+                    "id":3,
+                    "brandName":"Toyota",
+                    "img":"https://imgd.aeplcdn.com/227x128/n/cw/ec/137767/fortuner-legender-exterior-right-front-three-quarter-3.png?isig=0&q=80",
+                    "carname":"Toyota Fortuner Legender",
+                    "rating":"4.8",
+                    "ratingcount":"2134",
+                    "isstar":true,
+                    "star":"5 Star Safety",
+                    "kmpl":"67-98",
+                    "bhp":"145",
+                    "price":"43.66"
+                    
+                },
+                {
+                    "id":4,
+                    "brandName":"Toyota",
+                    "img":"https://imgd.aeplcdn.com/227x128/n/cw/ec/139739/land-cruiser-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80",
+                    "carname":"Toyota Land Cruiser",
+                    "rating":"4.8",
+                    "ratingcount":"123",
+                    "kmpl":"100",
+                    "bhp":"243",
+                    "price":"2.10"
+                    
+                },
+                {
+                    "id":5,
+                    "brandName":"Toyota",
+                    "img":"https://imgd.aeplcdn.com/227x128/n/cw/ec/109265/hilux-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80",
+                    "carname":"Toyota Hilux",
+                    "rating":"3",
+                    "ratingcount":"54",
+                    "kmpl":"34",
+                    "bhp":"65",
+                    "price":"30.41"
+                    
+                },
+                {
+                    "id":6,
+                    "brandName":"Toyota",
+                    "img":"https://imgd.aeplcdn.com/227x128/n/cw/ec/154483/vellfire-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80",
+                    "carname":"Toyota Vellfire",
+                    "rating":"4.8",
+                    "ratingcount":"13",
+                    "isstar":true,
+                    "star":"5 Star Safety",
+                    "kmpl":"19",
+                    "bhp":"142",
+                    "price":"1.20"
+                    
+                }
+
+            ]
+        },
+        {
+            "id":6,
+            "brandImgUrl":"https://imgd.aeplcdn.com/0X0/n/cw/ec/70/brands/logos/kia.jpg?v=1630057189593&q=80",
+            "brandName":"Kia",
+            "isbrand":true,
+            "isSimilar":true,
+            "particularBrand":[
+                {
+                    "id":1,
+                    "brandName":"Kia",
+                    "img":"https://imgd.aeplcdn.com/227x128/n/cw/ec/135051/seltos-exterior-right-front-three-quarter-31.jpeg?isig=0&q=80",
+                    "carname":"Kia Seltos",
+                    "rating":"4.5",
+                    "ratingcount":"115",
+                    "isstar":true,
+                    "star":"3 Star Safety",
+                    "kmpl":"17-20",
+                    "bhp":"113-117",
+                    "price":"10.90"
+
+                },
+                {
+                    "id":2,
+                    "brandName":"Kia",
+                    "img":"https://imgd.aeplcdn.com/227x128/n/cw/ec/144185/sonet-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80",
+                    "carname":"Kia Sonet",
+                    "rating":"4.5",
+                    "ratingcount":"101",
+                    "kmpl":"50-87",
+                    "bhp":"82-108",
+                    "price":"7.79"
+                    
+                },
+                {
+                    "id":3,
+                    "brandName":"Kia",
+                    "img":"https://imgd.aeplcdn.com/227x128/n/cw/ec/144163/carens-exterior-right-front-three-quarter-5.jpeg?isig=0&q=80",
+                    "carname":"Kia Carens",
+                    "rating":"4.5",
+                    "ratingcount":"80",
+                    "isstar":true,
+                    "star":"3 Star Safety",
+                    "kmpl":"78-98",
+                    "bhp":"113-158",
+                    "price":"10.45"
+                    
+                },
+                {
+                    "id":4,
+                    "brandName":"Kia",
+                    "img":"https://imgd.aeplcdn.com/227x128/n/cw/ec/114971/ev6-exterior-right-front-three-quarter-4.jpeg?isig=0&q=80",
+                    "carname":"Kia EV6",
+                    "rating":"4.5",
+                    "ratingcount":"16",
+                    "kmpl":"43-78",
+                    "bhp":"143",
+                    "price":"60.95"
+                    
+                },
+                {
+                    "id":5,
+                    "brandName":"Kia",
+                    "img":"https://imgd.aeplcdn.com/227x128/n/cw/ec/141383/sonet-facelift-exterior-front-view.jpeg?isig=0&q=80",
+                    "carname":"Kia Sonet Facelift",
+                    "rating":"3.7",
+                    "ratingcount":"151",
+                    "kmpl":"125",
+                    "bhp":"78",
+                    "price":"8.00"
+                    
+                },
+                {
+                    "id":6,
+                    "brandName":"Kia",
+                    "img":"https://imgd.aeplcdn.com/227x128/n/cw/ec/144485/ev9-exterior-right-front-three-quarter.jpeg?isig=0&q=80",
+                    "carname":"Kia EV9",
+                    "rating":"4.1",
+                    "ratingcount":"1468",
+                    "kmpl":"143",
+                    "bhp":"127",
+                    "price":"50.99"
+                    
+                }
+
+            ]
+        },
+        {
+            "id":7,
+            "brandImgUrl":"https://imgd.aeplcdn.com/0X0/n/cw/ec/1/brands/logos/bmw.jpg?v=1629973130013&q=80",
+            "brandName":"BMW",
+            "isbrand":true,
+            "isPopular":true,
+            "particularBrand":[
+                {
+                    "id":1,
+                    "brandName":"BMW",
+                    "img":"https://imgd.aeplcdn.com/227x128/n/cw/ec/140591/x1-exterior-right-front-three-quarter-7.jpeg?isig=0&q=80",
+                    "carname":"BMW X1",
+                    "rating":"4.2",
+                    "ratingcount":"34",
+                    "isstar":true,
+                    "star":"5 Star Safety",
+                    "kmpl":"60-70",
+                    "bhp":"134-148",
+                    "price":"48.90",
+                    "offer":true
+
+                },
+                {
+                    "id":2,
+                    "brandName":"BMW",
+                    "img":"https://imgd.aeplcdn.com/227x128/n/cw/ec/132513/7-series-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80",
+                    "carname":"BMW 7 Series",
+                    "rating":"4.8",
+                    "ratingcount":"346",
+                    "kmpl":"12-16",
+                    "bhp":"281-317",
+                    "price":"1.78"
+                    
+                },
+                {
+                    "id":3,
+                    "brandName":"BMW",
+                    "img":"https://imgd.aeplcdn.com/227x128/n/cw/ec/48034/2-series-gran-coupe-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80",
+                    "carname":"BMW 2 Series Gran Coupe",
+                    "rating":"4.5",
+                    "ratingcount":"40",
+                    "isstar":true,
+                    "star":"5 Star Safety",
+                    "kmpl":"14-18",
+                    "bhp":"145-158",
+                    "price":"43.50",
+                    "offer":true
+                    
+                },
+                {
+                    "id":4,
+                    "brandName":"BMW",
+                    "img":"https://imgd.aeplcdn.com/227x128/n/cw/ec/136217/x7-exterior-right-front-three-quarter-8.jpeg?isig=0&q=80",
+                    "carname":"BMW X7",
+                    "rating":"4.8",
+                    "ratingcount":"27",
+                    "kmpl":"11-14",
+                    "bhp":"205-215",
+                    "price":"1.27"
+                    
+                },
+                {
+                    "id":5,
+                    "brandName":"BMW",
+                    "img":"https://imgd.aeplcdn.com/227x128/n/cw/ec/149075/z4-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80",
+                    "carname":"BMW Z4",
+                    "rating":"4.17",
+                    "ratingcount":"21",
+                    "isstar":true,
+                    "star":"5 Star Safety",
+                    "kmpl":"12",
+                    "bhp":"315",
+                    "price":"90.90"
+                    
+                },
+                {
+                    "id":6,
+                    "brandName":"BMW",
+                    "img":"https://imgd.aeplcdn.com/227x128/n/cw/ec/140585/ix1-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80",
+                    "carname":"BMW iX1",
+                    "rating":"5",
+                    "ratingcount":"3",
+                    "kmpl":"115",
+                    "bhp":"189",
+                    "price":"60.90"
+                    
+                }
+
+            ]
+        },
+        {
+            "id":8,
+            "brandImgUrl":"https://imgd.aeplcdn.com/0X0/n/cw/ec/11/brands/logos/mercedes-benz.jpg?v=1629973270530&q=80",
+            "brandName":"Mercedes-Benz",
+            "isbrand":true,
+            "isPopular":true,
+            "particularBrand":[
+                {
+                    "id":1,
+                    "brandName":"Mercedes-Benz",
+                    "img":"https://imgd.aeplcdn.com/227x128/n/cw/ec/150621/g-class-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80",
+                    "carname":"Mercedes-Benz G-Class",
+                    "rating":"4.8",
+                    "ratingcount":"52",
+                    "isstar":true,
+                    "star":"5 Star Safety",
+                    "kmpl":"6",
+                    "bhp":"322-245",
+                    "price":"2.55"
+
+                },
+                {
+                    "id":2,
+                    "brandName":"Mercedes-Benz",
+                    "img":"https://imgd.aeplcdn.com/227x128/n/cw/ec/149525/a-class-limousine-exterior-right-front-three-quarter-5.jpeg?isig=0&q=80",
+                    "carname":"Mercedes-Benz A-Class Limousine",
+                    "rating":"4.6",
+                    "ratingcount":"27",
+                    "isstar":true,
+                    "star":"5 Star Safety",
+                    "kmpl":"17",
+                    "bhp":"112",
+                    "price":"42.70"
+                    
+                },
+                {
+                    "id":3,
+                    "brandName":"Mercedes-Benz",
+                    "img":"https://imgd.aeplcdn.com/227x128/n/cw/ec/116201/c-class-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80",
+                    "carname":"Mercedes-Benz A-Class Limousine",
+                    "rating":"4.3",
+                    "ratingcount":"27",
+                    "kmpl":"127",
+                    "bhp":"197-261",
+                    "price":"57.00"
+                    
+                },
+                {
+                    "id":4,
+                    "brandName":"Mercedes-Benz",
+                    "img":"https://imgd.aeplcdn.com/227x128/n/cw/ec/94041/amg-a35-exterior-right-front-three-quarter-6.jpeg?isig=0&q=80",
+                    "carname":"Mercedes-Benz AMG A35",
+                    "rating":"4.4",
+                    "ratingcount":"55",
+                    "isstar":true,
+                    "star":"5 Star Safety",
+                    "kmpl":"13",
+                    "bhp":"301",
+                    "price":"58.00"
+                    
+                },
+                {
+                    "id":5,
+                    "brandName":"Mercedes-Benz",
+                    "img":"https://imgd.aeplcdn.com/227x128/n/cw/ec/148919/amg-sl55-roadster-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80",
+                    "carname":"Mercedes-Benz AMG SL55 Roadster",
+                    "rating":"5",
+                    "ratingcount":"9",
+                    "kmpl":"136",
+                    "bhp":"469",
+                    "price":"2.35"
+                    
+                },
+                {
+                    "id":6,
+                    "brandName":"Mercedes-Benz",
+                    "img":"https://imgd.aeplcdn.com/227x128/n/cw/ec/58165/amg-eqs-exterior-right-front-three-quarter-60.jpeg?isig=0&q=80",
+                    "carname":"Mercedes-Benz AMG EQS",
+                    "rating":"5",
+                    "ratingcount":"7",
+                    "isstar":true,
+                    "star":"5 Star Safety",
+                    "kmpl":"16",
+                    "bhp":"178",
+                    "price":"2.45"
+                    
+                }
+
+            ]
+        },
+        {
+            "id":9,
+            "brandImgUrl":"https://imgd.aeplcdn.com/0X0/n/cw/ec/72/brands/logos/mg.jpg?v=1631163895654&q=80",
+            "brandName":"MG",
+            "isbrand":true,
+            "isPopular":true,
+            "particularBrand":[
+                {
+                    "id":1,
+                    "brandName":"MG",
+                    "img":"https://imgd.aeplcdn.com/227x128/n/cw/ec/130583/hector-exterior-right-front-three-quarter-75.jpeg?isig=0&q=80",
+                    "carname":"MG Hector",
+                    "rating":"4.4",
+                    "ratingcount":"56",
+                    "kmpl":"156",
+                    "bhp":"141-170",
+                    "price":"15.00"
+
+                },
+                {
+                    "id":2,
+                    "brandName":"MG",
+                    "img":"https://imgd.aeplcdn.com/227x128/n/cw/ec/139315/hector-plus-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80",
+                    "carname":"MG Hector Plus",
+                    "rating":"4.4",
+                    "ratingcount":"42",
+                    "kmpl":"16",
+                    "bhp":"141-175",
+                    "price":"17.80"
+                    
+                },
+                {
+                    "id":3,
+                    "brandName":"MG",
+                    "img":"https://imgd.aeplcdn.com/227x128/n/cw/ec/129689/gloster-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80",
+                    "carname":"MG Gloster",
+                    "rating":"4",
+                    "ratingcount":"32",
+                    "isstar":true,
+                    "star":"5 Star Safety",
+                    "kmpl":"12-13",
+                    "bhp":"158-171",
+                    "price":"38.80"
+                    
+                },
+                {
+                    "id":4,
+                    "brandName":"MG",
+                    "img":"https://imgd.aeplcdn.com/227x128/n/cw/ec/110437/zs-ev-exterior-right-front-three-quarter-69.jpeg?isig=0&q=80",
+                    "carname":"MG ZS EV",
+                    "rating":"3.9",
+                    "ratingcount":"37",
+                    "kmpl":"27",
+                    "bhp":"132",
+                    "price":"22.88"
+                    
+                },
+                {
+                    "id":5,
+                    "brandName":"MG",
+                    "img":"https://imgd.aeplcdn.com/227x128/n/cw/ec/51940/astor-exterior-right-front-three-quarter-4.jpeg?isig=0&q=80",
+                    "carname":"MG Astor",
+                    "rating":"4",
+                    "ratingcount":"219",
+                    "kmpl":"126",
+                    "bhp":"175",
+                    "price":"10.82"
+                    
+                },
+                {
+                    "id":6,
+                    "brandName":"MG",
+                    "img":"https://imgd.aeplcdn.com/227x128/n/cw/ec/125193/comet-ev-exterior-right-side-view-23.jpeg?isig=0&q=80",
+                    "carname":"MG Comet EV",
+                    "rating":"4.2",
+                    "ratingcount":"36",
+                    "kmpl":"13-56",
+                    "bhp":"78-85",
+                    "price":"7.98"
+                    
+                }
+
+            ]
+        },
+        {
+            "id":10,
+            "brandImgUrl":"https://imgd.aeplcdn.com/0X0/n/cw/ec/20/brands/logos/volkswagen.jpg?v=1630056096439&q=80",
+            "brandName":"Volkswagen",
+            "isbrand":true,
+            "isPopular":true,
+            "particularBrand":[
+                {
+                    "id":1,
+                    "brandName":"Volkswagen",
+                    "img":"https://imgd.aeplcdn.com/227x128/n/cw/ec/144681/virtus-exterior-right-front-three-quarter-7.jpeg?isig=0&q=80",
+                    "carname":"Volkswagen Virtus",
+                    "rating":"4.6",
+                    "ratingcount":"91",
+                    "isstar":true,
+                    "star":"5 Star Safety",
+                    "kmpl":"18-20",
+                    "bhp":"117-128",
+                    "price":"11.48",
+                    "offer":true
+
+                },
+                {
+                    "id":2,
+                    "brandName":"Volkswagen",
+                    "img":"https://imgd.aeplcdn.com/227x128/n/cw/ec/144689/taigun-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80",
+                    "carname":"Volkswagen Taigun",
+                    "rating":"4.6",
+                    "ratingcount":"89",
+                    "isstar":true,
+                    "star":"5 Star Safety",
+                    "kmpl":"18-28",
+                    "bhp":"117-126",
+                    "price":"11.62",
+                    "offer":true
+                    
+                },
+                {
+                    "id":3,
+                    "brandName":"Volkswagen",
+                    "img":"https://imgd.aeplcdn.com/227x128/n/cw/ec/53123/tiguan-exterior-right-front-three-quarter-4.jpeg?q=80",
+                    "carname":"Volkswagen Tiguan",
+                    "rating":"4.8",
+                    "ratingcount":"21",
+                    "isstar":true,
+                    "star":"5 Star Safety",
+                    "kmpl":"12-13",
+                    "bhp":"117-128",
+                    "price":"35.18",
+                    "offer":true
+                    
+                }
+            ]
+        },
+        {
+            "id":11,
+            "brandImgUrl":"https://imgd.aeplcdn.com/0X0/n/cw/ec/15/brands/logos/skoda1681982956420.jpg?v=1681982956529&q=80",
+            "brandName":"Skoda",
+            "isbrand":true,
+            "isPopular":true,
+            "particularBrand":[
+                {
+                    "id":1,
+                    "brandName":"Skoda",
+                    "img":"https://imgd.aeplcdn.com/227x128/n/cw/ec/144999/slavia-exterior-right-front-three-quarter-6.jpeg?isig=0&q=80",
+                    "carname":"Skoda Slavia",
+                    "rating":"4.6",
+                    "ratingcount":"78",
+                    "isstar":true,
+                    "star":"5 Star Safety",
+                    "kmpl":"18-20",
+                    "bhp":"142-156",
+                    "price":"10.89"
+
+                },
+                {
+                    "id":2,
+                    "brandName":"Skoda",
+                    "img":"https://imgd.aeplcdn.com/227x128/n/cw/ec/145021/kushaq-exterior-right-front-three-quarter-12.jpeg?isig=0&q=80",
+                    "carname":"Skoda Kushaq",
+                    "rating":"4.4",
+                    "ratingcount":"50",
+                    "isstar":true,
+                    "star":"5 Star Safety",
+                    "kmpl":"17-19",
+                    "bhp":"142-167",
+                    "price":"10.89",
+                    "offer":true
+
+                    
+                },
+                {
+                    "id":3,
+                    "brandName":"Skoda",
+                    "img":"https://imgd.aeplcdn.com/227x128/n/cw/ec/49051/kodiaq-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80",
+                    "carname":"Skoda Kodiaq",
+                    "rating":"4.2",
+                    "ratingcount":"67",
+                    "isstar":true,
+                    "star":"5 Star Safety",
+                    "kmpl":"12-13",
+                    "bhp":"188",
+                    "price":"38.50",
+                    "offer":true
+                    
+                },
+                {
+                    "id":4,
+                    "brandName":"Skoda",
+                    "img":"https://imgd.aeplcdn.com/227x128/n/cw/ec/137871/enyaq-exterior-right-front-three-quarter.jpeg?isig=0&q=80",
+                    "carname":"Skoda Enyaq",
+                    "rating":"4.1",
+                    "ratingcount":"78",
+                    "kmpl":"114",
+                    "bhp":"167",
+                    "price":"5.20"
+                    
+                },
+                {
+                    "id":5,
+                    "brandName":"Skoda",
+                    "img":"https://imgd.aeplcdn.com/227x128/n/cw/ec/158729/kodiaq-new-exterior-left-front-three-quarter.jpeg?isig=0&q=80",
+                    "carname":"Skoda New Kodiaq",
+                    "rating":"3.9",
+                    "ratingcount":"67",
+                    "kmpl":"123",
+                    "bhp":"153",
+                    "price":"42.28"
+                    
+                },
+                {
+                    "id":6,
+                    "brandName":"Skoda",
+                    "img":"https://imgd.aeplcdn.com/227x128/n/cw/ec/158937/new-superb-exterior-right-front-three-quarter-5.jpeg?isig=0&q=80",
+                    "carname":"Skoda Superb",
+                    "rating":"3.2",
+                    "ratingcount":"689",
+                    "kmpl":"13-17",
+                    "bhp":"156-178",
+                    "price":"25.00"
+                    
+                }
+
+            ]
+        },
+        {
+            "id":12,
+            "brandImgUrl":"https://imgd.aeplcdn.com/0X0/n/cw/ec/7/brands/logos/honda.jpg?v=1630056209549&q=80",
+            "brandName":"Honda",
+            "isbrand":true,
+            "isPopular":true,
+            "particularBrand":[
+                {
+                    "id":1,
+                    "brandName":"Honda",
+                    "img":"https://imgd.aeplcdn.com/227x128/n/cw/ec/142515/elevate-exterior-right-front-three-quarter-21.jpeg?isig=0&q=80",
+                    "carname":"Honda Elevate",
+                    "rating":"4.6",
+                    "ratingcount":"98",
+                    "kmpl":"15-17",
+                    "bhp":"119",
+                    "price":"11.04"
+
+                },
+                {
+                    "id":2,
+                    "brandName":"Honda",
+                    "img":"https://imgd.aeplcdn.com/227x128/n/cw/ec/45951/amaze-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80",
+                    "carname":"Honda Amaze",
+                    "rating":"4.3",
+                    "ratingcount":"56",
+                    "isstar":true,
+                    "star":"4 Star Safety",
+                    "kmpl":"18-27",
+                    "bhp":"156",
+                    "price":"7.13",
+                    "offer":true
+                    
+                },
+                {
+                    "id":3,
+                    "brandName":"Honda",
+                    "img":"https://imgd.aeplcdn.com/227x128/n/cw/ec/134287/city-exterior-right-front-three-quarter-76.jpeg?isig=0&q=80",
+                    "carname":"Honda City",
+                    "rating":"4.4",
+                    "ratingcount":"91",
+                    "kmpl":"17-18",
+                    "bhp":"117",
+                    "price":"11.67",
+                    "offer":true
+                    
+                },
+                {
+                    "id":4,
+                    "brandName":"Honda",
+                    "img":"https://imgd.aeplcdn.com/227x128/n/cw/ec/143275/city-hybrid-exterior-right-front-three-quarter-4.jpeg?isig=0&q=80",
+                    "carname":"Honda City Hybrid eHEV",
+                    "rating":"4.5",
+                    "ratingcount":"38",
+                    "kmpl":"27",
+                    "bhp":"97",
+                    "price":"18.93"
+                    
+                },
+                {
+                    "id":5,
+                    "brandName":"Honda",
+                    "img":"https://imgd.aeplcdn.com/227x128/n/cw/ec/134113/new-wr-v-exterior-left-front-three-quarter-2.jpeg?isig=0&q=80",
+                    "carname":"Honda WR-V",
+                    "rating":"3.8",
+                    "ratingcount":"167",
+                    "kmpl":"115",
+                    "bhp":"134",
+                    "price":"9.00"
+                    
+                }
+
+            ]
+        }
+    ],
+    "lakh":[
+        {
+            "id":1,
+            "price":"Under 5 Lakh"
+
+        },
+        {
+            "id":2,
+            "price":"Under 6 Lakh"
+
+        },
+        {
+            "id":3,
+            "price":"Under 7 Lakh"
+
+        },
+        {
+            "id":4,
+            "price":"Under 8 Lakh"
+
+        },
+        {
+            "id":5,
+            "price":"Under 10 Lakh"
+
+        },
+        {
+            "id":6,
+            "price":"Under 15 Lakh"
+
+        },
+        {
+            "id":7,
+            "price":"Under 20 Lakh"
+
+        },
+        {
+            "id":8,
+            "price":"Under 25 Lakh"
+
+        },
+        {
+            "id":9,
+            "price":"Under 30 Lakh"
+
+        },
+        {
+            "id":10,
+            "price":"Luxury Cars"
+
+        }
+    ],
+    "compareCar":[
+        {
+            "id":1,
+            "img":"https://imgd.aeplcdn.com/0x0/cw/static/icons/circle/select-car.svg",
+            "iscompare":true
+        },
+        {
+            "id":2,
+            "img":"https://imgd.aeplcdn.com/0x0/cw/static/icons/circle/select-car.svg",
+            "iscompare":true
+        }
+
+    ],
+    "comparepopup":[
+        {
+            "id":1,
+            "img":"https://imgd.aeplcdn.com/0X0/n/cw/ec/10/brands/logos/maruti-suzuki1647009823420.jpg?v=1647009823707&q=80",
+            "brandName":"Maruti Suzuki"
+            
+        },
+        {
+            "id":2,
+            "img":"https://imgd.aeplcdn.com/0X0/n/cw/ec/16/brands/logos/tata.jpg?v=1629973276336&q=80",
+            "brandName":"Tata"
+        },
+        {
+            "id":3,
+            "img":"https://imgd.aeplcdn.com/0X0/n/cw/ec/8/brands/logos/hyundai.jpg?v=1629973193722&q=80",
+            "brandName":"Hyundai"
+        },
+        {
+            "id":4,
+            "img":"https://imgd.aeplcdn.com/0X0/n/cw/ec/9/brands/logos/mahindra.jpg?v=1629973668273&q=80",
+            "brandName":"Mahindra"
+        }
+    ]
+}
