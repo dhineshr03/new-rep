@@ -7,7 +7,7 @@ function App() {
     <div>
         <Provider store={Store}>
           <Navbar/>
-              <Routing/>
+              {/* <Routing/> */}
           <Footer/>    
         </Provider>
     </div>
